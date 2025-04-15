@@ -13,9 +13,12 @@ Main steps:
 
 ## Files
 
-- `PV056 - project.ipynb` — Main notebook with the full solution.
+- `PV056 - project.ipynb` — Notebook with the Tensorflow solution (Blaško, Hlinský)
+- `Merged.ipynb` — Final notebook with additional PyTorch model (Jančeková, Trúchly) and visual explanations (Hlinský)
 
 ## Authors
 
 - Šárka Blaško
 - Martin Hlinský
+- Lucia Jančeková
+- Dominik Trúchly
